@@ -1,6 +1,6 @@
 # AI-Powered Telecom Customer Churn Prediction and Retention Recommendation System
 
-Overview
+# Overview
 
 Customer churn is one of the biggest challenges in the telecom industry because losing customers directly impacts revenue and business growth. This project develops an intelligent AI-powered system capable of predicting customer churn and generating personalized retention recommendations using machine learning techniques.
 
