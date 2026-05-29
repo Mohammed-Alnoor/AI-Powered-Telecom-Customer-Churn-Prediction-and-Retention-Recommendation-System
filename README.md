@@ -8,7 +8,7 @@ The system analyzes customer demographics, billing information, service subscrip
 
 ---
 
-Problem Statement
+# Problem Statement
 
 Telecom companies face significant financial losses due to customer churn. Traditional systems often identify customer loss too late, making retention efforts less effective and more expensive.
 
@@ -20,7 +20,7 @@ This project aims to solve this problem by building an intelligent machine learn
 
 ---
 
-Project Objectives
+# Project Objectives
 
 - Analyze customer behavior and churn patterns.
 - Identify the main factors affecting customer churn.
@@ -32,7 +32,7 @@ Project Objectives
 
 ---
 
-Research Questions
+## Research Questions
 
 - What percentage of customers churn?
 - Which customer groups are more likely to churn?
