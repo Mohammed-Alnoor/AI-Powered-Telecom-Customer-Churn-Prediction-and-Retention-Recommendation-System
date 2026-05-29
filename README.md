@@ -1,6 +1,6 @@
 # AI-Powered Telecom Customer Churn Prediction and Retention Recommendation System
 
-# Overview
+## Overview
 
 Customer churn is one of the biggest challenges in the telecom industry because losing customers directly impacts revenue and business growth. This project develops an intelligent AI-powered system capable of predicting customer churn and generating personalized retention recommendations using machine learning techniques.
 
@@ -8,7 +8,7 @@ The system analyzes customer demographics, billing information, service subscrip
 
 ---
 
-# Problem Statement
+## Problem Statement
 
 Telecom companies face significant financial losses due to customer churn. Traditional systems often identify customer loss too late, making retention efforts less effective and more expensive.
 
@@ -20,7 +20,7 @@ This project aims to solve this problem by building an intelligent machine learn
 
 ---
 
-# Project Objectives
+## Project Objectives
 
 - Analyze customer behavior and churn patterns.
 - Identify the main factors affecting customer churn.
@@ -45,7 +45,7 @@ This project aims to solve this problem by building an intelligent machine learn
 
 ---
 
-Dataset
+## Dataset
 
 Dataset Used:
 IBM Telco Customer Churn Dataset
@@ -56,7 +56,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ---
 
-Technologies Used
+## Technologies Used
 
 Programming Language
 
@@ -91,9 +91,10 @@ Deployment
 
 ---
 
-Project Structure
+## Project Structure
 
 telecom-customer-churn-prediction/
+
 │
 ├── data/
 │   ├── raw/
@@ -128,7 +129,7 @@ telecom-customer-churn-prediction/
 
 ---
 
-Project Workflow
+## Project Workflow
 
 Data Collection
        ↓
@@ -152,7 +153,7 @@ Deployment
 
 ---
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The project performs detailed exploratory analysis to answer important business questions such as:
 
@@ -173,7 +174,7 @@ Visualizations include:
 
 ---
 
-Machine Learning Models
+## Machine Learning Models
 
 The following machine learning algorithms were implemented and compared:
 
@@ -184,7 +185,7 @@ The following machine learning algorithms were implemented and compared:
 
 ---
 
-Model Evaluation Metrics
+## Model Evaluation Metrics
 
 The models were evaluated using:
 
@@ -197,7 +198,7 @@ The models were evaluated using:
 
 ---
 
-Recommendation System
+## Recommendation System
 
 The project includes a rule-based recommendation engine that generates personalized retention strategies for customers predicted to churn.
 
@@ -212,7 +213,7 @@ High churn probability| Immediate retention campaign
 
 ---
 
-Deployment
+## Deployment
 
 The final system can be deployed using Streamlit to provide:
 
@@ -223,7 +224,7 @@ The final system can be deployed using Streamlit to provide:
 
 ---
 
-Expected Results
+## Expected Results
 
 - Improved churn prediction accuracy
 - Better customer retention strategies
@@ -232,7 +233,7 @@ Expected Results
 
 ---
 
-Future Improvements
+## Future Improvements
 
 - Deep Learning implementation
 - Real-time telecom analytics
@@ -243,7 +244,7 @@ Future Improvements
 
 ---
 
-Author
+## Author
 
 Mohammed Alnoor Salama Abdallah
 
